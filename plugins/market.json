@@ -1,0 +1,167 @@
+{
+  "plugins": [
+    {
+      "id": "math-solver-pro",
+      "name": "Math Solver Pro",
+      "description": "Advanced mathematics solver with step-by-step solutions for algebra, calculus, and geometry problems. Includes graphing capabilities and formula reference.",
+      "author": "MathTools Inc",
+      "version": "2.1.0",
+      "price": "Free",
+      "rating": 4.8,
+      "downloads": 15420,
+      "icon": "https://github.com/proginsight/4learner/raw/main/plugins/icons/math-solver.png",
+      "downloadUrl": "https://github.com/proginsight/4learner/raw/main/plugins/math-solver-pro.dll",
+      "screenshots": [
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/math-solver-1.png",
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/math-solver-2.gif",
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/math-solver-3.png"
+      ],
+      "category": "Mathematics",
+      "tags": ["math", "solver", "calculus", "algebra"]
+    },
+    {
+      "id": "vocabulary-builder",
+      "name": "Vocabulary Builder",
+      "description": "Enhance your vocabulary with interactive flashcards, word games, and daily challenges. Supports multiple languages and custom word lists.",
+      "author": "LanguageMaster",
+      "version": "1.5.2",
+      "price": "$4.99",
+      "rating": 4.6,
+      "downloads": 8930,
+      "icon": "https://github.com/proginsight/4learner/raw/main/plugins/icons/vocab-builder.png",
+      "downloadUrl": "https://github.com/proginsight/4learner/raw/main/plugins/vocabulary-builder.dll",
+      "screenshots": [
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/vocab-1.png",
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/vocab-2.png",
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/vocab-3.gif"
+      ],
+      "category": "Language",
+      "tags": ["vocabulary", "language", "flashcards", "learning"]
+    },
+    {
+      "id": "chemistry-lab",
+      "name": "Chemistry Lab Simulator",
+      "description": "Virtual chemistry laboratory with 200+ experiments, interactive periodic table, and molecular visualization tools. Safe experimentation environment.",
+      "author": "ScienceHub",
+      "version": "3.0.1",
+      "price": "$9.99",
+      "rating": 4.9,
+      "downloads": 12350,
+      "icon": "https://github.com/proginsight/4learner/raw/main/plugins/icons/chemistry-lab.png",
+      "downloadUrl": "https://github.com/proginsight/4learner/raw/main/plugins/chemistry-lab.dll",
+      "screenshots": [
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/chem-1.gif",
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/chem-2.png",
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/chem-3.png"
+      ],
+      "category": "Science",
+      "tags": ["chemistry", "science", "lab", "experiments"]
+    },
+    {
+      "id": "study-timer-pro",
+      "name": "Study Timer Pro",
+      "description": "Pomodoro-based study timer with break reminders, productivity analytics, and goal tracking. Sync across devices and compete with friends.",
+      "author": "ProductivityLabs",
+      "version": "1.8.0",
+      "price": "Free",
+      "rating": 4.7,
+      "downloads": 23100,
+      "icon": "https://github.com/proginsight/4learner/raw/main/plugins/icons/study-timer.png",
+      "downloadUrl": "https://github.com/proginsight/4learner/raw/main/plugins/study-timer-pro.dll",
+      "screenshots": [
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/timer-1.png",
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/timer-2.gif",
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/timer-3.png"
+      ],
+      "category": "Productivity",
+      "tags": ["timer", "pomodoro", "productivity", "study"]
+    },
+    {
+      "id": "code-practice",
+      "name": "Code Practice Arena",
+      "description": "Learn programming with interactive challenges in Python, JavaScript, C++, and Java. Includes code editor, debugger, and instant feedback.",
+      "author": "CodeMasters",
+      "version": "2.3.5",
+      "price": "$7.99",
+      "rating": 4.8,
+      "downloads": 18670,
+      "icon": "https://github.com/proginsight/4learner/raw/main/plugins/icons/code-practice.png",
+      "downloadUrl": "https://github.com/proginsight/4learner/raw/main/plugins/code-practice.dll",
+      "screenshots": [
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/code-1.png",
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/code-2.png",
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/code-3.gif"
+      ],
+      "category": "Programming",
+      "tags": ["coding", "programming", "practice", "challenges"]
+    },
+    {
+      "id": "history-timeline",
+      "name": "Interactive History Timeline",
+      "description": "Explore world history through interactive timelines, 3D maps, and multimedia content. Covers ancient civilizations to modern events.",
+      "author": "HistoryExplorers",
+      "version": "1.9.0",
+      "price": "$5.99",
+      "rating": 4.5,
+      "downloads": 9840,
+      "icon": "https://github.com/proginsight/4learner/raw/main/plugins/icons/history-timeline.png",
+      "downloadUrl": "https://github.com/proginsight/4learner/raw/main/plugins/history-timeline.dll",
+      "screenshots": [
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/history-1.gif",
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/history-2.png",
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/history-3.png"
+      ],
+      "category": "History",
+      "tags": ["history", "timeline", "world history", "education"]
+    },
+    {
+      "id": "mind-mapper",
+      "name": "Mind Mapper",
+      "description": "Create beautiful mind maps and concept diagrams. Export to PDF, PNG, or share online. Perfect for brainstorming and organizing ideas.",
+      "author": "ThinkTools",
+      "version": "2.0.3",
+      "price": "Free",
+      "rating": 4.6,
+      "downloads": 14230,
+      "icon": "https://github.com/proginsight/4learner/raw/main/plugins/icons/mind-mapper.png",
+      "downloadUrl": "https://github.com/proginsight/4learner/raw/main/plugins/mind-mapper.dll",
+      "screenshots": [
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/mind-1.png",
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/mind-2.gif",
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/mind-3.png"
+      ],
+      "category": "Productivity",
+      "tags": ["mind map", "diagram", "brainstorming", "organization"]
+    },
+    {
+      "id": "physics-simulator",
+      "name": "Physics Simulator",
+      "description": "Visualize physics concepts with interactive simulations. Covers mechanics, electricity, optics, and modern physics with real-time calculations.",
+      "author": "ScienceHub",
+      "version": "2.2.0",
+      "price": "$8.99",
+      "rating": 4.9,
+      "downloads": 11560,
+      "icon": "https://github.com/proginsight/4learner/raw/main/plugins/icons/physics-sim.png",
+      "downloadUrl": "https://github.com/proginsight/4learner/raw/main/plugins/physics-simulator.dll",
+      "screenshots": [
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/physics-1.gif",
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/physics-2.png",
+        "https://github.com/proginsight/4learner/raw/main/plugins/screenshots/physics-3.gif"
+      ],
+      "category": "Science",
+      "tags": ["physics", "simulation", "science", "mechanics"]
+    }
+  ],
+  "categories": [
+    "Mathematics",
+    "Language",
+    "Science",
+    "Productivity",
+    "Programming",
+    "History",
+    "Art & Design"
+  ],
+  "featured": ["math-solver-pro", "chemistry-lab", "study-timer-pro"],
+  "lastUpdated": "2025-01-10T14:30:00Z"
+}
